@@ -1,6 +1,6 @@
 #pragma once
 
-#include "slap/slap.h"
+#include "slap_arduino.h"
 #include "data_struct.h"
 
 void tiny_AddStageCost(double* cost, const tiny_ProblemData prob,

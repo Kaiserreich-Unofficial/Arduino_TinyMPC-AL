@@ -1,4 +1,4 @@
-#include "slap/slap.h"
+#include "slap_arduino.h"
 #include "data_struct.h"
 
 void tiny_DynamicsLti(Matrix* xn, const Matrix x, const Matrix u,

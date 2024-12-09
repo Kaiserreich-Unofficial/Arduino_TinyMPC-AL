@@ -1,0 +1,24 @@
+{
+  "name": "TinyMPC-AL",
+  "keywords": "mpc, tinympc, augmented lagrangian, optimization,arduino",
+  "description": "Model-predictive control based on augmented Lagrangian. This is a port version for Arduino IDE.",
+  "repository":
+  {
+      "type": "git",
+      "url": "https://github.com/Kaiserreich-Unofficial/Arduino_TinyMPC-AL.git"
+  },
+  "authors":
+  {
+      "name": "RoboticExplorationLab",
+      "url": "https://github.com/RoboticExplorationLab/TinyMPC-AL",
+      "maintainer": true
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "dependencies":
+  {
+      "Kaiserreich-Unofficial/Arduino_slap": "*"
+  }
+}

@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "slap/slap.h"
+#include "slap_arduino.h"
 
 //========================================
 // Print matrix with its name (dummy)

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "slap/slap.h"
+#include "slap_arduino.h"
 
 #define kNullMat  \
   ((Matrix){      \
